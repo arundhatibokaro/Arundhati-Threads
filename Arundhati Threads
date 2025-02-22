@@ -1,0 +1,15 @@
+[Website Files]
+
+This ZIP file contains:
+1. **index.html** - The main structure of your website.
+2. **styles.css** - Styling for an attractive design.
+3. **images/** - A folder for your product images (you can add more later).
+
+### Steps to Upload to GitHub:
+1. Extract the ZIP file on your computer.
+2. Go to your GitHub repository.
+3. Click **"Add file" > "Upload files"**.
+4. Drag and drop the extracted files.
+5. Click **"Commit changes"** to save.
+
+Once uploaded, share the GitHub repository link with me so I can deploy it on Netlify!
